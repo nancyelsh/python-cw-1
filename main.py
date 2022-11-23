@@ -1,5 +1,6 @@
 # Change the following print statement so that it uses the addition operator + and prints out 8
 print(3)
+print(3+5)
 
 # Write a print statement that uses the division operator / 
 
